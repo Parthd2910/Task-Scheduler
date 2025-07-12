@@ -1,0 +1,4 @@
+2|abcd|1
+3|Laundry|1
+4|carwash|0
+5|aaaa|1
